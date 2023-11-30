@@ -14,9 +14,9 @@
 
 <h3 align="center">What am I up to</h3>
 <ul align="left">
-  <li>🌱 I’m currently learning **Rust**</li>
-  <li>👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
-  <li>📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
+  <li style=" list-style-type: none">🌱 I’m currently learning **Rust**</li>
+  <li style=" list-style-type: none">👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
+  <li style=" list-style-type: none">📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
 </ul>
 
 <br>
