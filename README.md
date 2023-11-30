@@ -1,6 +1,6 @@
 <h1 align="center">Howdy There, Welcome Stranger!</h1>
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
-<h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3>
+<!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
 
 <br>
 
@@ -14,9 +14,9 @@
 
 <h3 align="center">What am I up to</h3>
 <p align="center">
-  <p>🌱 I’m currently learning **Rust**</p>
-  <p>👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></p>  
-  <p>📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></p>
+  <div>🌱 I’m currently learning **Rust**</div>
+  <div>👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></div>  
+  <div>📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></div>
 </p>
 
 <br>
