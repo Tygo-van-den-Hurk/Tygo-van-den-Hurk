@@ -14,8 +14,8 @@
 
 <ul align="left">
   <li>🌱 I’m currently learning **Rust**</li>
-  <li>👨‍💻 All of my projects are available at [https://https://tygo-van-den-hurk.com/projects/](https://https://tygo-van-den-hurk.com/projects/)</li>
-  <li>📫 How to reach me [https://https://tygo-van-den-hurk.com/contact-me/](https://https://tygo-van-den-hurk.com/contact-me/)</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
+  <li>📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
 </ul>
 
 <br>
