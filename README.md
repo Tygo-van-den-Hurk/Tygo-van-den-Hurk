@@ -14,9 +14,9 @@
 
 <h3 align="center">What am I up to</h3>
 <ul align="center">
-  <li style=" list-style-type: none">🌱 I’m currently learning **Rust**</li>
-  <li style=" list-style-type: none">👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
-  <li style=" list-style-type: none">📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
+  <li style=" list-style-type: none;">🌱 I’m currently learning **Rust**</li>
+  <li style=" list-style-type: none;">👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
+  <li style=" list-style-type: none;">📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
 </ul>
 
 <br>
@@ -61,9 +61,13 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-h123&show_icons=true&locale=en&layout=compact" alt="st-h123" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=st-h123&show_icons=true&locale=en&layout=compact" alt="st-h123" />
+</p>
 
 <br>
 
 <h2>Commit Statistics</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/>
+</p>
