@@ -14,7 +14,7 @@
 
 <h3 align="center">What am I up to</h3>
 <div align="center">
-  🌱 I’m currently learning **Rust**. <br>
+  🌱 I’m currently learning Rust.🦀 <br>
   👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a>. <br>
   📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a>. <br>
 </div>
