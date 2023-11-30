@@ -47,4 +47,4 @@
 <br>
 
 <h2>Commit Statistics</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/></p>
