@@ -13,11 +13,11 @@
 <br>
 
 <h3 align="center">What am I up to</h3>
-<p align="center">
-  <div>🌱 I’m currently learning **Rust**</div>
-  <div>👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></div>  
-  <div>📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></div>
-</p>
+<div align="center">
+  🌱 I’m currently learning **Rust**.
+  👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a>.
+  📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a>.
+</div>
 
 <br>
 <h3 align="center">Connect with me</h3>
