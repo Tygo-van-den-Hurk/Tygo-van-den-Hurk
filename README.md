@@ -11,9 +11,12 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123" alt="st-h123" /></a> </p>
 
 <br>
-- 🌱 I’m currently learning **Rust**
-- 👨‍💻 All of my projects are available at [https://https://tygo-van-den-hurk.com/projects/](https://https://tygo-van-den-hurk.com/projects/)
-- 📫 How to reach me [https://https://tygo-van-den-hurk.com/contact-me/](https://https://tygo-van-den-hurk.com/contact-me/)
+
+<ul align="left">
+  <li>🌱 I’m currently learning **Rust**</li>
+  <li>👨‍💻 All of my projects are available at [https://https://tygo-van-den-hurk.com/projects/](https://https://tygo-van-den-hurk.com/projects/)</li>
+  <li>📫 How to reach me [https://https://tygo-van-den-hurk.com/contact-me/](https://https://tygo-van-den-hurk.com/contact-me/)</li>
+</ul>
 
 <br>
 <h3 align="center">Connect with me:</h3>
