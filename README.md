@@ -1,5 +1,5 @@
-<h1 align="center">Howdy there, I'm Tygo!</h1>
-<h3 align="center">I'm a student at the TU/e, studying Computer Science! :P</h3>
+<h1 align="center">Howdy there, welcome stranger!</h1>
+<h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /> </p>
 
