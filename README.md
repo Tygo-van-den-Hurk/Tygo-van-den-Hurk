@@ -42,8 +42,10 @@
 
 <br>
 
+<h2>Most used Languages</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=st-h123&show_icons=true&locale=en&layout=compact" alt="st-h123" /></p>
 
 <br>
 
+<h2>Commit Statistics</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" /></p>
