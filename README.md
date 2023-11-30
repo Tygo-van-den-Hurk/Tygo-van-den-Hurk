@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tygo!</h1>
+<h1 align="center">Howdy there, I'm Tygo!</h1>
 <h3 align="center">I'm a student at the TU/e, studying Computer Science! :P</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /> </p>
@@ -6,17 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123" alt="st-h123" /></a> </p>
 
 - 🌱 I’m currently learning **Rust**
+- 👨‍💻 All of my projects are available at [https://https://tygo-van-den-hurk.com/projects/](https://https://tygo-van-den-hurk.com/projects/)
+- 📫 How to reach me [https://https://tygo-van-den-hurk.com/portfolio/](https://https://tygo-van-den-hurk.com/contact-me/)
 
-- 👨‍💻 All of my projects are available at [https://https://tygo-van-den-hurk.com/portfolio/](https://https://tygo-van-den-hurk.com/portfolio/)
-
-- 📫 How to reach me **https://https://tygo-van-den-hurk.com/contact-me/**
-
-- 📄 Know about my experiences [https://https://tygo-van-den-hurk.com/projects/](https://https://tygo-van-den-hurk.com/projects/)
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tygo van den hurk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tygo van den hurk" height="30" width="40" /></a>
-<a href="https://discord.gg/st.h." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="st.h." height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tygo van den hurk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tygo van den hurk" height="30" width="40" /></a>
+  <a href="https://discord.gg/st.h." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="st.h." height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
