@@ -14,9 +14,9 @@
 
 <h3 align="center">What am I up to</h3>
 <ul align="center">
-  <li style=" list-style-type: none;">🌱 I’m currently learning **Rust**</li>
-  <li style=" list-style-type: none;">👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
-  <li style=" list-style-type: none;">📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
+  <li style="list-style-type: none;">🌱 I’m currently learning **Rust**</li>
+  <li style="list-style-type: none;">👨‍💻 All of my projects are available at <a href="https://tygo-van-den-hurk.com/projects/" target="blank">https://tygo-van-den-hurk.com/projects/</a></li>  
+  <li style="list-style-type: none;">📫 How to reach me <a href="https://tygo-van-den-hurk.com/contact-me/" target="blank">https://tygo-van-den-hurk.com/contact-me/</a></li>
 </ul>
 
 <br>
@@ -49,7 +49,7 @@
 
 <br>
 
-<h2 align="center">Languages and Tools</h2>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -67,7 +67,7 @@
 
 <br>
 
-<h2>Commit Statistics</h2>
+<h3 align="center">Commit Statistics</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/>
 </p>
