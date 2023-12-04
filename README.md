@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="0; url=https://tygo-van-den-hurk.com/">
+
 <h1 align="center">Howdy There, Welcome Stranger!</h1>
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 <!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
