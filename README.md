@@ -34,10 +34,10 @@
 
 <br>
 <h3 align="center">Commit Statistics</h3>
-<div align="center">
+<p align="center">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-h123&layout=compact" />
-</div>
+</p>
 
 <br>
 <h3 align="center">Commit Statistics</h3>
