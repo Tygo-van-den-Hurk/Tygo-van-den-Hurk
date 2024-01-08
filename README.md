@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0; url=https://tygo-van-den-hurk.com/">
+<meta http-equiv="refresh" content="0; url=https://tygo.van.den.hurk.dev/">
 
 <br><p align="center"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /></p>
 
@@ -12,8 +12,8 @@
   <h3 align="center">What am I up to</h3>
   🌱 I’m currently learning Rust. 🦀 <br>
 <!--   👨‍💻 All of my projects are available at <a href="https://tygo.van.den.hurk.dev/projects/" target="blank">https://tygo.van.den.hurk.dev/projects/</a>. 💼 <br> -->
-  📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank">https://tygo.van.den.hurk.dev/contact-me/</a>. 📧 <br> 
-  👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank">https://tygo.van.den.hurk.dev/socials/</a>. 📷 <br>
+  📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank" style="color:inherit;">https://tygo.van.den.hurk.dev/contact-me/</a>. 📧 <br> 
+  👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit;">https://tygo.van.den.hurk.dev/socials/</a>. 📷 <br>
 </div>
 
 
