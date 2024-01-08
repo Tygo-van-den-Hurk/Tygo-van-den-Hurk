@@ -6,7 +6,7 @@
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 <!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
 
-<br><h3 align="center">My stats</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p>
+<br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p>
 
 <br><h3 align="center">What am I up to</h3><div align="center">
   🌱 I’m currently learning Rust. 🦀 <br>
