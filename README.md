@@ -10,7 +10,7 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123" alt="st-h123" /></a> </p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=flat" alt="st-h123" /></a></p>
 
 <br>
 
