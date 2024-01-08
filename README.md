@@ -8,7 +8,8 @@
 
 <br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p>
 
-<br><h3 align="center">What am I up to</h3><div align="center">
+<br><div align="center">
+  <h3 align="center">What am I up to</h3>
   🌱 I’m currently learning Rust. 🦀 <br>
 <!--   👨‍💻 All of my projects are available at <a href="https://tygo.van.den.hurk.dev/projects/" target="blank">https://tygo.van.den.hurk.dev/projects/</a>. 💼 <br> -->
   📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank">https://tygo.van.den.hurk.dev/contact-me/</a>. 📧 <br>
