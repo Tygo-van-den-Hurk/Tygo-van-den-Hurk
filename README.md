@@ -2,7 +2,7 @@
 
 <br><p align="center"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /></p>
 
-<h1 align="center">Howdy There, Welcome Stranger!</h1>
+<h1 align="center">Howdy There, Welcome Stranger! 🤠</h1>
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 <!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
 
