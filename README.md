@@ -6,10 +6,6 @@
 
 <br>
 <h3 align="center">My stats</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /> </p>
-
-<br>
-
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p>
 
 <br>
@@ -73,3 +69,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/>
 </p>
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /> </p>
