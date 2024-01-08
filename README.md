@@ -12,7 +12,7 @@
   <h3 align="center">What am I up to</h3>
   🌱 I’m currently learning Rust. 🦀 <br>
 <!--   👨‍💻 All of my projects are available at <a href="https://tygo.van.den.hurk.dev/projects/" target="blank">https://tygo.van.den.hurk.dev/projects/</a>. 💼 <br> -->
-  📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank">https://tygo.van.den.hurk.dev/contact-me/</a>. 📧 <br>
+  📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank">https://tygo.van.den.hurk.dev/contact-me/</a>. Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank">https://tygo-van-den-hurk.com/socials/</a>. 📧 <br>
 </div>
 
 
