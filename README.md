@@ -6,7 +6,11 @@
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 <!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
 
-<br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p>
+<br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&column=3&margin-w=15&margin-h=15&theme=onedark" alt="st-h123" /></a></p><br><p align="center">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" /> <br>
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-h123&show_icons=true&theme=transparent" /> <br>
+  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&"/> <br>
+</p>
 
 <br><div align="center">
   <h3 align="center">What am I up to</h3>
@@ -39,11 +43,7 @@
   </a> 
 </p>
 
-<br><h3 align="center">Commit Statistics</h3><p align="center">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" /> <br>
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-h123&show_icons=true&theme=transparent" /> <br>
-  <img align="center" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&"/> <br>
-</p>
+
 
 <!-- <br><h3 align="center">Connect with me</h3><p align="center">
   <!-- <a href="https://codepen.io/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="d" height="30" width="40" /></a> -- >
