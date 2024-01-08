@@ -72,9 +72,3 @@
   <a href="https://discord.gg/st.h." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="st.h." height="30" width="40" /></a>
   <!-- <a href="/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="d" height="30" width="40" /></a> -- >
 </p> -->
-
-<style>
-  a {
-    color: red !important;
-  }
-</style>
