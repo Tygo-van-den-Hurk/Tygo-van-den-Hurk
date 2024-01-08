@@ -69,6 +69,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&" alt="st-h123" style="margin-left:auto;margin-right:auto;"/>
 </p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+</div>
 
 <br>
 
