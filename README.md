@@ -9,8 +9,8 @@
 <br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width="360" src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="st-h123" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
 </a></p><br><p align="center">
-  <img width="360" align="center" src="https://github-readme-stats.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" /> <br>
-  <img width="360" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st-h123&show_icons=true&theme=transparent" /> <br>
+  <img width="360" align="center" src="https://github-readme-stats-13aj7sd3g-tygo-van-den-hurks-projects.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&theme=transparent" /> <br>
+  <img width="360" align="center" src="https://github-readme-stats-13aj7sd3g-tygo-van-den-hurks-projects.vercel.app/api/top-langs/?username=st-h123&show_icons=true&theme=transparent" /> <br>
   <img width="360" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&"/> <br>
 </p>
 
@@ -21,7 +21,6 @@
   📫 How to reach me <a href="https://tygo.van.den.hurk.dev/contact-me/" target="blank" style="color:inherit!important;">https://tygo.van.den.hurk.dev/contact-me/</a>. 📧 <br> 
   👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">https://tygo.van.den.hurk.dev/socials/</a>. 📷 <br>
 </div>
-
 
 <br><h3 align="center">Languages and Tools</h3><p align="center" style="display:grid;grid-template-columns:repeat(3, 1fr);gap:10px;"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -44,8 +43,6 @@
     <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/>
   </a> 
 </p>
-
-
 
 <!-- <br><h3 align="center">Connect with me</h3><p align="center">
   <!-- <a href="https://codepen.io/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="d" height="30" width="40" /></a> -- >
