@@ -11,7 +11,9 @@
 </a></p><br><p align="center">
   <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000" /> <br>
   <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs/?username=st-h123&show_icons=true&bg_color=00000000&exclude_repo=reverse-proxy,github-readme-stats,darkreader,blog.tygo.van.den.hurk.dev,TUe-DZC10-Game-Design-I-2023-2024&layout=donut&langs_count=6&show_icons=true" /> <br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123" alt="GitHub Streak" /></a> <!--&background=808080-->
+  <a href="https://git.io/streak-stats">
+    <img width="360" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&bg_color=00000000" alt="GitHub Streak" />
+  </a> <!--&background=808080-->
 </p>
 
 <br><div align="center">
