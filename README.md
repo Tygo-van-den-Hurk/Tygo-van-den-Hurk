@@ -20,9 +20,9 @@
   <h3 align="center">What am I up to</h3>
   🌱 I’m currently learning <a href="https://nodejs.org/en" target="blank" style="color:inherit!important;">Node.js</a> 📚 <br>
   🔮 Next I'm gonna learn <a href="https://www.rust-lang.org/" target="blank" style="color:inherit!important;">Rust</a>. 🦀 <br>
-  👨‍💻 All of my projects are available at <a href="https://tygo.van.den.hurk.dev/projects/" target="blank">https://tygo.van.den.hurk.dev/projects/</a>. 💼 <br> 
   📫 How to reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. 📧 <br> 
   👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">https://tygo.van.den.hurk.dev/socials/</a>. 📷 <br>
+  👨‍💻 All of my projects are available at <a href="https://tygo.van.den.hurk.dev/projects/" target="blank">https://tygo.van.den.hurk.dev/projects/</a>. 💼 <br> 
 </div>
 
 <br><h3 align="center">Languages and Tools</h3><p align="center" style="display:grid;grid-template-columns:repeat(3, 1fr);gap:10px;"> 
