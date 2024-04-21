@@ -18,7 +18,7 @@
 
 <br><div align="center">
   <h3 align="center">What am I up to</h3>
-  🌱 I’m currently learning <a href="https://nodejs.org/en" target="blank" style="color:inherit!important;">[Nix](https://nixos.org/manual/nix/stable/language/)</a> 📚 <br>
+  🌱 I’m currently learning <a href="https://nixos.org/manual/nix/stable/language/" target="blank" style="color:inherit!important;">Nix</a> 📚 <br>
   🔮 Next I'm gonna learn <a href="https://www.rust-lang.org/" target="blank" style="color:inherit!important;">Rust</a>. 🦀 <br>
   📫 How to reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. 📧 <br> 
   👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">my socials</a>. 📷 <br>
