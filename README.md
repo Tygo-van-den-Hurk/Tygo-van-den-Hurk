@@ -66,6 +66,10 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
+  <a href="https://nixos.org/" target="_blank" rel="noreferrer"> 
+    <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <!-- <br><h3 align="center">Connect with me</h3><p align="center">
