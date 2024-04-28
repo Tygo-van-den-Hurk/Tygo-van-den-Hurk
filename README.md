@@ -54,6 +54,9 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/>
   </a>
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+    <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -69,7 +72,9 @@
   <a href="https://nixos.org/" target="_blank" rel="noreferrer"> 
     <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="NixOS" width="40" height="40"/> 
   </a>
-  
+  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
+    <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="NixOS" width="40" height="40"/> 
+  </a>
 </p>
 
 <!-- <br><h3 align="center">Connect with me</h3><p align="center">
