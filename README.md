@@ -1,18 +1,18 @@
 <meta http-equiv="refresh" content="0; url=https://tygo.van.den.hurk.dev/">
 
-<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=st-h123&label=Profile%20views&color=0e75b6&style=flat" alt="st-h123" /></p>
+<br><p align="center"> <img src="https://komarev.com/ghpvc/?username=Tygo-van-den-Hurk&label=Profile%20views&color=0e75b6&style=flat" alt="Tygo-van-den-Hurk" /></p>
 
 <h1 align="center">Howdy There, Welcome Stranger! 🤠</h1>
 <h3 align="center">I'm Tygo, a student at the TU/e, studying Computer Science! :P</h3>
 <!-- <h3 align="center">I ain't got much to show here yet. But I'm working on that. Just you see! </h3> -->
 
 <br><h3 align="center">My Git Statistics</h3><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="360" src="https://github-profile-trophy.vercel.app/?username=st-h123&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="st-h123" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
+  <img width="360" src="https://github-profile-trophy.vercel.app/?username=Tygo-van-den-Hurk&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="Tygo-van-den-Hurk" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
 </a></p><br><p align="center">
-  <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api?username=st-h123&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000" /> <br>
-  <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs/?username=st-h123&show_icons=true&bg_color=00000000&exclude_repo=reverse-proxy,github-readme-stats,darkreader,blog.tygo.van.den.hurk.dev,TUe-DZC10-Game-Design-I-2023-2024&layout=donut&langs_count=6&show_icons=true" /> <br>
+  <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api?username=Tygo-van-den-Hurk&count_private=true&include_all_commits=true&show_icons=true&bg_color=00000000" /> <br>
+  <img width="360" align="center" src="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs/?username=Tygo-van-den-Hurk&show_icons=true&bg_color=00000000&exclude_repo=reverse-proxy,github-readme-stats,darkreader,blog.tygo.van.den.hurk.dev,TUe-DZC10-Game-Design-I-2023-2024&layout=donut&langs_count=6&show_icons=true" /> <br>
   <a href="https://git.io/streak-stats">
-    <img width="360" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=st-h123&bg_color=00000000" alt="GitHub Streak" />
+    <img width="360" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tygo-van-den-Hurk&bg_color=00000000" alt="GitHub Streak" />
   </a> <!--&background=808080-->
 </p>
 
