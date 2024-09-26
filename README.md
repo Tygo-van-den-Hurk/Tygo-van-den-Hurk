@@ -4,7 +4,7 @@
 </section>
 <section id="introduction-section" align="center">
   <h1>Howdy There, Welcome Stranger! 🤠</h1>
-  <h3>I'm Tygo, a student at the <a href="tue.nl">TU/e</a>, studying Computer Science! :P</h3>
+  <h3>I'm Tygo, a student at the <a href="http://tue.nl">TU/e</a>, studying Computer Science! :P</h3>
 </section>
 <section id="stats-section">
   <h2>🏆 My Git Statistics</h2>
