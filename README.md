@@ -77,7 +77,7 @@
     </li>
     <li>
       <details>
-        <summary> Docker </summary>
+        <summary> Docker (Compose)</summary>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
         </a>
