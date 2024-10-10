@@ -4,13 +4,13 @@
 </section>
 <section id="introduction-section" align="center">
   <h1>Howdy There, Welcome Stranger! 🤠</h1>
-  <h3>I'm Tygo, a student at the <a href="http://tue.nl">TU/e</a>, studying Computer Science! :P</h3>
+  <h3>I'm Tygo, a Computer Science student at <a href="http://tue.nl">TU/e</a>, just having fun and goofing around :P</h3>
 </section>
 <section id="stats-section">
   <h2>🏆 My Git Statistics</h2>
   <p>These are some statistics about me and my GitHub usage:</p>
   <details>
-    <summary><button> REVEAL! </button></summary>
+    <summary><b> REVEAL! </b></summary>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img width="360" src="https://github-profile-trophy.vercel.app/?username=Tygo-van-den-Hurk&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="GitHub Profile Trophy's of Tygo-van-den-Hurk" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
     </a>
