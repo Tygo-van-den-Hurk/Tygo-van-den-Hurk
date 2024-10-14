@@ -119,6 +119,17 @@
         </p>
       </details>
     </li>
+    <li>
+      <details>
+        <summary> React </summary>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+          <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="nginx"/>
+        </a>  
+        <p>
+          JavaScript library for building user interfaces. React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. 
+        </p>
+      </details>
+    </li>
   </ul>
 <section>
 <section id="languages-section">
