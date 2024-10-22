@@ -84,6 +84,9 @@
         <p>
           Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers. The service has both free and premium tiers. The software that hosts the containers is called Docker Engine. It was first released in 2013 and is developed by Docker, Inc. Docker is a tool that is used to automate the deployment of applications in lightweight containers so that applications can work efficiently in different environments in isolation. 
         </p>
+        <p>
+          Docker Compose is a tool for defining and running multi-container applications. It is the key to unlocking a streamlined and efficient development and deployment experience.
+        </p>
       </details>
     </li>
     <li>
@@ -127,6 +130,20 @@
         </a>  
         <p>
           JavaScript library for building user interfaces. React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. 
+        </p>
+      </details>
+    </li>
+    <li>
+      <details>
+        <summary> Redis (OM)</summary>
+        <a href="https://redis.io" target="_blank" rel="noreferrer">
+          <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/redis.svg" alt="redis"/>
+        </a>  
+        <p>
+          Redis (Remote Dictionary Server) is a source-available, in-memory storage, used as a distributed, in-memory key–value database, cache and message broker, with optional durability. Because it holds all data in memory and because of its design, Redis offers low-latency reads and writes, making it particularly suitable for use cases that require a cache.
+        </p>
+        <p>
+          Redis OM is a Redis client that provides high-level abstractions for managing document data in Redis.
         </p>
       </details>
     </li>
