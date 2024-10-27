@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tygo-van-den-Hurk&label=Profile%20views&color=0e75b6&style=flat" alt="Tygo-van-den-Hurk" />
 </section>
 <section id="introduction-section" align="center">
-  <h1>Howdy There, Welcome Stranger! 🤠</h1>
+  <h1>🤠 Howdy There, Welcome Stranger! 👋</h1>
   <h3>I'm Tygo, a Computer Science student at <a href="http://tue.nl">TU/e</a>, just having fun and goofing around :P</h3>
 </section>
 <section id="stats-section">
