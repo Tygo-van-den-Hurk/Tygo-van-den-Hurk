@@ -55,9 +55,9 @@
   <ul>
     <li>
       <details>
-        <summary> Apache HTTPD </summary>
+        <summary> 🌐 Apache HTTPD </summary>
         <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> 
-          <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="NixOS"/> 
+          <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache HTTPD"/> 
         </a>
         <p>
           The Apache HTTP Server is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. It is developed and maintained by a community of developers under the auspices of the Apache Software Foundation. The vast majority of Apache HTTP Server instances run on a Linux distribution, but current versions also run on Microsoft Windows, OpenVMS, and a wide variety of Unix-like systems. Past versions also ran on NetWare, OS/2 and other operating systems, including ports to mainframes.
@@ -66,7 +66,7 @@
     </li>
     <li>
       <details>
-        <summary> Arduino </summary>
+        <summary> 🤖 Arduino </summary>
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino"/>
         </a>
@@ -77,7 +77,7 @@
     </li>
     <li>
       <details>
-        <summary> Docker (Compose)</summary>
+        <summary> 🐳 Docker (Compose)</summary>
         <a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
         </a>
@@ -91,7 +91,7 @@
     </li>
     <li>
       <details>
-        <summary> Git </summary>
+        <summary> 💾 Git </summary>
         <a href="https://git-scm.com/"  target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
         </a>
@@ -102,7 +102,7 @@
     </li>
     <li>
       <details>
-        <summary> Linux </summary>
+        <summary> 🐧 Linux </summary>
         <a href="https://www.linux.org" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"/>
         </a>
@@ -113,7 +113,7 @@
     </li>
     <li>
       <details>
-        <summary> Nginx </summary>
+        <summary> ⚙️ Nginx </summary>
         <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"/>
         </a>  
@@ -124,9 +124,9 @@
     </li>
     <li>
       <details>
-        <summary> React </summary>
+        <summary> ⚛️ React </summary>
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
-          <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="nginx"/>
+          <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" alt="react"/>
         </a>  
         <p>
           JavaScript library for building user interfaces. React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies. 
@@ -135,7 +135,7 @@
     </li>
     <li>
       <details>
-        <summary> Redis (OM)</summary>
+        <summary> 📦 Redis (OM)</summary>
         <a href="https://redis.io" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/svg/redis.svg" alt="redis"/>
         </a>  
@@ -155,7 +155,7 @@
   <ul>
     <li>
       <details>
-        <summary> BASH </summary>
+        <summary> 💻 BASH </summary>
         <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash"/>
         </a>
@@ -166,7 +166,7 @@
     </li>  
     <li>
       <details>
-        <summary> CSS </summary>
+        <summary> 🎨 CSS </summary>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
         </a>
@@ -177,7 +177,7 @@
     </li>
     <li>
       <details>
-        <summary> HTML </summary>
+        <summary> 📄 HTML </summary>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
         </a>
@@ -188,7 +188,7 @@
     </li>  
     <li>
       <details>
-        <summary> Java </summary>
+        <summary> ☕ Java </summary>
         <a href="https://www.java.com/" target="_blank" rel="noreferrer">
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"/>
         </a>
@@ -199,7 +199,7 @@
     </li>
     <li>
       <details>
-        <summary> JavaScript </summary>
+        <summary> 🟨 JavaScript </summary>
         <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/> 
         </a>
@@ -210,7 +210,7 @@
     </li> 
     <li>
       <details>
-        <summary> Nix </summary>
+        <summary> ❄️ Nix </summary>
         <a href="https://nixos.org/" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="Nix"/> 
         </a>
@@ -221,7 +221,7 @@
     </li>
     <li>
       <details>
-        <summary> SASS </summary>
+        <summary> 🖼️ SASS </summary>
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"/> 
         </a>
@@ -232,7 +232,7 @@
     </li>  
     <li>
       <details>
-        <summary> TypeScript </summary>
+        <summary> 🟦 TypeScript </summary>
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
           <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/> 
         </a>
