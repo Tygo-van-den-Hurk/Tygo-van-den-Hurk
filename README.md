@@ -13,12 +13,16 @@
 <section id="introduction-section" align="center">
   <h1>🤠 Howdy There, Welcome Stranger! 👋</h1>
   <h3>I'm Tygo, a Computer Science student at <a href="http://tue.nl">TU/e</a>, just having fun and goofing around :P</h3>
+  <p>
+    <b>🔑 My GPG Key Fingerprint</b>: <a href="https://keys.openpgp.org/search?q=7CA2CBB275058A44">7CA2CBB275058A44</a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/1AAE628A2D49059717AEA7F87CA2CBB275058A44">Download public key 🗝️</a>)
+    <br>(last update: 2024-Nov-8, 📅 click the first link for an up to date status. 📩)
+  </p>
 </section>
 <section id="stats-section">
   <h2>🏆 My Git Statistics</h2>
-  <p>These are some statistics about me and my GitHub usage:</p>
+  <p>📈 These are some statistics about me and my GitHub usage: 📊</p>
   <details>
-    <summary><b> REVEAL! </b></summary>
+    <summary>🪄 <b> REVEAL! </b> ✨</summary>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img width="360" src="https://github-profile-trophy.vercel.app/?username=Tygo-van-den-Hurk&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="GitHub Profile Trophy's of Tygo-van-den-Hurk" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
     </a>
