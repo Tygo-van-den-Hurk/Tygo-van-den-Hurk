@@ -15,7 +15,8 @@
   <h3>I'm Tygo, a Computer Science student at <a href="http://tue.nl">TU/e</a>, just having fun and goofing around :P</h3>
   <p>
     <b>🔑 My GPG Key Fingerprint</b>: <a href="https://keys.openpgp.org/search?q=7CA2CBB275058A44"><code>7CA2CBB275058A44</code></a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/1AAE628A2D49059717AEA7F87CA2CBB275058A44">Download public key 🗝️</a>)
-    <br>(last update: 2024-Nov-8, 📅 click the first link for an up to date status. 📩)
+    <br>
+    <b>📅 last update</b>: <code>2025-Feb-19 @ 11:26:13 CET</code>,  click the first link right above for an up to date status. 📩
   </p>
 </section>
 <section id="stats-section">
