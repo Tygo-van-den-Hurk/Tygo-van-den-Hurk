@@ -39,23 +39,18 @@
   <ul>
     <li> 
       <p>
-        🌱 I’m currently learning <a href="https://www.rust-lang.org/" target="blank" style="color:inherit!important;">Rust</a>. 🦀 
-      </p>
-    </li>
-    <li> 
-      <p>
-        📫 You can reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. 📧 
-      </p>
-    </li>
-    <li> 
-      <p>
-        👻 Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">my socials</a>. 📷 
+        🌱 I’m currently improving my algorithmic skills. 🔢
       </p>
     </li>
     <li> 
       <p>
         👨‍💻 You can find any of my projects by category. Here are my <a href="https://redirects.tygo.van.den.hurk.dev/github/school">school</a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab">homelab<a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy">legacy<a>, and <a href="https://redirects.tygo.van.den.hurk.dev/github/safs">startup<a> projects. 💼 
         </p>
+    </li>
+    <li> 
+      <p>
+        📫 You can reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">my socials</a>. 📷 
+      </p>
     </li>
   </ul>
 </section>
@@ -254,6 +249,17 @@
           </p>
         </details>
       </li>  
+      <li>
+        <details>
+          <summary> 🦀 Rust </summary>
+          <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
+            <img width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust"/> 
+          </a>
+          <p>
+            Rust is a systems programming language that focuses on performance, safety, and concurrency. It was designed to provide low-level control over hardware, similar to C and C++, but with stronger guarantees around memory safety and preventing issues like null pointer dereferencing or buffer overflows. With the key aspects of being: Memory Safety, Concurrency, Zero-Cost Abstractions, Modern Features, Tooling, Community and Ecosystem.
+          </p>
+        </details>
+      </li>
       <li>
         <details>
           <summary> 🟦 TypeScript </summary>
