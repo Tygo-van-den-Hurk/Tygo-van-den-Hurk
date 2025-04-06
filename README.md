@@ -5,9 +5,10 @@
     <a href="https://redirects.tygo.van.den.hurk.dev/linkedin"><img src="https://img.shields.io/badge/Linkedin-blue" alt="Linkedin Badge"></a>
     <a href="https://redirects.tygo.van.den.hurk.dev/leetcode"><img src="https://img.shields.io/badge/LeetCode-orange" alt="leetcode Badge"></a>
     <a href="https://redirects.tygo.van.den.hurk.dev/contact"><img src="https://img.shields.io/badge/contact%20me-purple" alt="contact me Badge"></a>
-    <a href="https://redirects.tygo.van.den.hurk.dev/github/school"><img src="https://img.shields.io/badge/School%20Projects-gray" alt="School Projects Badge"></a>
-    <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab"><img src="https://img.shields.io/badge/Homelab%20Projects-gray" alt="Homelab Projects Badge"></a>
-    <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy"><img src="https://img.shields.io/badge/Legacy%20Projects-gray" alt="Legacy Projects Badge"></a>
+    <a href="https://redirects.tygo.van.den.hurk.dev/github/school"><img src="https://img.shields.io/badge/School_Projects-gray" alt="School Projects Badge"></a>
+    <a href="https://github.com/Safe-and-Fast-Software"><img src="https://img.shields.io/badge/Startup_Projects-gray" alt="School Projects Badge"></a>
+    <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab"><img src="https://img.shields.io/badge/Homelab_Projects-gray" alt="Homelab Projects Badge"></a>
+    <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy"><img src="https://img.shields.io/badge/Legacy_Projects-gray" alt="Legacy Projects Badge"></a>
     <img src="https://komarev.com/ghpvc/?username=Tygo-van-den-Hurk&label=Profile%20views&color=0e75b6&style=flat" alt="Amount of profile views.">
     <img src="https://img.shields.io/github/followers/Tygo-van-den-Hurk?style=flat" alt="Amount of followers.">
     <img src="https://img.shields.io/github/stars/Tygo-van-den-Hurk?style=flat" alt="Amount of stars earned.">
