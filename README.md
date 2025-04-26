@@ -43,7 +43,7 @@
   <ul>
     <li> 
       <p>
-        🌱 I’m currently _getting a lot of real world experience_. 🔢
+        🌱 I’m currently <i>getting a lot of real world experience</i>. 📈
       </p>
     </li>
     <li> 
