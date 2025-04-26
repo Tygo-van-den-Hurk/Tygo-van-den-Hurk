@@ -43,7 +43,7 @@
   <ul>
     <li> 
       <p>
-        🌱 I’m currently improving my algorithmic skills. 🔢
+        🌱 I’m currently _getting a lot of real world experience_. 🔢
       </p>
     </li>
     <li> 
