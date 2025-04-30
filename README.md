@@ -16,7 +16,13 @@
 </section>
 <section id="introduction-section" align="center">
   <h1>🤠 Howdy There, Welcome Stranger! 👋</h1>
-  <h3>I'm Tygo, a Computer Science student at <a href="http://tue.nl">TU/e</a>, just having fun and goofing around :P</h3>
+
+```YAML
+    name: Tygo van den Hurk
+position: Student at TU/e
+location: Eindhoven, the Netherlands
+```
+  
   <p>
     <b>🔑 My GPG Key Fingerprint</b>: <a href="https://keys.openpgp.org/search?q=7CA2CBB275058A44"><code>7CA2CBB275058A44</code></a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/1AAE628A2D49059717AEA7F87CA2CBB275058A44">Download public key 🗝️</a>)
     <br>
