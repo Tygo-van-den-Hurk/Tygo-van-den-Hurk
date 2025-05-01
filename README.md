@@ -1,4 +1,5 @@
 <meta http-equiv="refresh" content="0; url=https://tygo.van.den.hurk.dev/">
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="badges-section" align="center">
   <center>
     <a href="https://nixos.org"><img src="https://img.shields.io/badge/Nix_enjoyer-5277C3.svg?style=flat&logo=nixos&labelColor=73C3D5" alt="Nix Enjoyer badge"/></a>
@@ -26,24 +27,53 @@ location: Eindhoven, the Netherlands
   <p>
     <b>🔑 My GPG Key Fingerprint</b>: <a href="https://keys.openpgp.org/search?q=7CA2CBB275058A44"><code>7CA2CBB275058A44</code></a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/1AAE628A2D49059717AEA7F87CA2CBB275058A44">Download public key 🗝️</a>)
     <br>
-    <b>📅 last update</b>: <code>2025-Feb-19 @ 11:26:13 CET</code>,  click the first link right above for an up to date status. 📩
+    <b>📅 last update</b>: <code>2025-May-01 @ 09:20:30 CET</code>,  click the first link right above for an up to date status. 📩
   </p>
 </section>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="stats-section">
   <h2>🏆 My Git Statistics</h2>
   <p>📈 These are some statistics about me and my GitHub usage: 📊</p>
   <details>
     <summary>🪄 <b> REVEAL! </b> ✨</summary>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img width="360" src="https://github-profile-trophy.vercel.app/?username=Tygo-van-den-Hurk&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&theme=apprentice" alt="GitHub Profile Trophy's of Tygo-van-den-Hurk" /> <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
-    </a>
-    <br><img width="360" src="https://github-readme-stats-two-iota-36.vercel.app/api?username=Tygo-van-den-Hurk&count_private=true&include_all_commits=true&show_icons=true" />
-    <br><img width="360" src="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs/?username=Tygo-van-den-Hurk&show_icons=true&exclude_repo=reverse-proxy,github-readme-stats,darkreader,blog.tygo.van.den.hurk.dev,TUe-DZC10-Game-Design-I-2023-2024&layout=donut&langs_count=6&show_icons=true" />
-    <br><a href="https://git.io/streak-stats">
-      <img width="360" src="https://github-readme-streak-stats.herokuapp.com/?user=Tygo-van-den-Hurk&bg_color=00000000" alt="GitHub Streak" />
-    </a>
+    <div align="center">
+      <div><br></div>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?theme=flat&no-frame=true&column=3&margin-w=15&margin-h=15&username=Tygo-van-den-Hurk">
+          <source media="(prefers-color-scheme: dark)"  srcset="https://github-profile-trophy.vercel.app/?theme=apprentice&no-frame=true&column=3&margin-w=15&margin-h=15&username=Tygo-van-den-Hurk&no-bg=true">
+          <img width="80%" alt="Tygo-van-den-Hurk's GitHub Profile Trophies">
+          <!-- &rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET -->
+        </picture>
+      </a>
+      <div><br></div>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-iota-36.vercel.app/api?title_color=000000&text_color=000000&border_color=000000&icon_color=000000&bg_color=FFFFFFFF&username=Tygo-van-den-Hurk&count_private=true&include_all_commits=true&show_icons=true&hide_border=true">
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-two-iota-36.vercel.app/api?title_color=BBBBBB&text_color=BBBBBB&border_color=BBBBBB&icon_color=BBBBBB&bg_color=00000000&username=Tygo-van-den-Hurk&count_private=true&include_all_commits=true&show_icons=true&hide_border=true">
+        <img width="80%" alt="Tygo-van-den-Hurk's GitHub Statistics">
+      </picture>
+      </a>
+      <div><br></div>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs?title_color=000000&text_color=000000&border_color=000000&icon_color=000000&bg_color=FFFFFFFF&username=Tygo-van-den-Hurk&layout=donut&langs_count=6&show_icons=true&exclude_repo=repo1,repo2&hide_border=true">
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats-two-iota-36.vercel.app/api/top-langs?title_color=BBBBBB&text_color=BBBBBB&border_color=BBBBBB&icon_color=BBBBBB&bg_color=00000000&username=Tygo-van-den-Hurk&layout=donut&langs_count=6&show_icons=true&exclude_repo=repo1,repo2&hide_border=true">
+        <img width="80%" alt="Tygo-van-den-Hurk's Programming Languages">
+      </picture>
+      </a>
+      <div><br></div>
+      <a href="https://git.io/streak-stats">
+        <picture>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000&border=000000&background=FFFFFFFF&user=Tygo-van-den-Hurk&hide_border=true">
+          <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-streak-stats.herokuapp.com/?sideNums=BBBBBB&currStreakNum=BBBBBB&dates=BBBBBB&sideLabels=BBBBBB&border=BBBBBB&background=00000000&user=Tygo-van-den-Hurk&hide_border=true">
+          <img width="80%" alt="Tygo-van-den-Hurk's Programming Languages">
+        </picture>
+      </a>
+    </div>
   </details>
 </section>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="what-am-i-up-to-section">
   <h2>👀 What am I up to</h2>
   <ul>
@@ -55,7 +85,7 @@ location: Eindhoven, the Netherlands
     <li> 
       <p>
         👨‍💻 You can find any of my projects by category. Here are my <a href="https://redirects.tygo.van.den.hurk.dev/github/school">school</a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab">homelab<a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy">legacy<a>, and <a href="https://redirects.tygo.van.den.hurk.dev/github/safs">startup<a> projects. 💼 
-        </p>
+      </p>
     </li>
     <li> 
       <p>
@@ -64,6 +94,7 @@ location: Eindhoven, the Netherlands
     </li>
   </ul>
 </section>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="tools-section">
   <h2>🛠️ Tools</h2>
   <details>
