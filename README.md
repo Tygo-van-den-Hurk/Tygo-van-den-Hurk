@@ -27,12 +27,12 @@ location: Eindhoven, the Netherlands
   <p>
     <b>🔑 My GPG Key Fingerprint</b>: <a href="https://keys.openpgp.org/search?q=7CA2CBB275058A44"><code>7CA2CBB275058A44</code></a> (<a href="https://keys.openpgp.org/vks/v1/by-fingerprint/1AAE628A2D49059717AEA7F87CA2CBB275058A44">Download public key 🗝️</a>)
     <br>
-    <b>📅 last update</b>: <code>2025-May-01 @ 09:20:30 CET</code>,  click the first link right above for an up to date status. 📩
+    <b>📅 last update</b>: <code>2026-Jan-13 @ 15:59:54 CET</code>,  click the first link right above for an up to date status. 📩
   </p>
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="stats-section">
-  <h2>🏆 My Git Statistics</h2>
+  <h2 id="my-git-statistics">🏆 My Git Statistics</h2>
   <p>📈 These are some statistics about me and my GitHub usage: 📊</p>
   <details>
     <summary>🪄 <b> REVEAL! </b> ✨</summary>
@@ -75,7 +75,7 @@ location: Eindhoven, the Netherlands
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="what-am-i-up-to-section">
-  <h2>👀 What am I up to</h2>
+  <h2 id="what-am-i-up-to">👀 What am I up to</h2>
   <ul>
     <li> 
       <p>
@@ -93,10 +93,21 @@ location: Eindhoven, the Netherlands
       </p>
     </li>
   </ul>
+  <h3>⚡ Latest Activity</h3>
+  <p>My latest actions on GitHub:</p>
+
+<!--START_SECTION:activity-->
+1. ℹ️ Assigned PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+2. 🗣 Commented on [#5698](https://github.com/hoppscotch/hoppscotch/issues/5698#issuecomment-3743777145) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+3. ℹ️ Labeled PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+4. ℹ️ Labeled PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 💪 Opened PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
+
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="tools-section">
-  <h2>🛠️ Tools</h2>
+  <h2 id="tools">🛠️ Tools</h2>
   <details>
     <summary>These are the tools I've worked with and am comfortable in, sorted in alphabetical order:</summary>
       <ul>

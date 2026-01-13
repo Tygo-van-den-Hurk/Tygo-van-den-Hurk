@@ -1,0 +1,20 @@
+name: Update README file
+
+on:
+  workflow_dispatch:
+  schedule: [cron: '0 0 * * *']
+
+jobs:
+  update:
+    name: Update README file
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.3.0
+      - name: Update README file with new statistics
+        uses: jamesgeorge007/github-activity-readme@e7ba986d7752b04a02fcf623ae141d9cf0552bed # v0.4.6
+        env: { GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}" }
+        with: 
+          MAX_LINES: 5
+          COMMIT_NAME: "docs: update README workflow"
+          COMMIT_MSG: "This is an automatic update done by CI/CD."
