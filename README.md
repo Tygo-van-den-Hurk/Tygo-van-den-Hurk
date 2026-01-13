@@ -97,11 +97,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#5698](https://github.com/hoppscotch/hoppscotch/issues/5698#issuecomment-3743777145) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. ℹ️ Labeled PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. ℹ️ Labeled PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 💪 Opened PR [#5769](https://github.com/hoppscotch/hoppscotch/pull/5769) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 🎉 Merged PR [#8](https://github.com/Tygo-van-den-Hurk/Slyde/pull/8) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+2. ℹ️ Reopened PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
+3. ❌ Closed PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
+4. 🎉 Merged PR [#10514](https://github.com/js-org/js.org/pull/10514) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 💪 Opened PR [#8](https://github.com/Tygo-van-den-Hurk/Slyde/pull/8) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
