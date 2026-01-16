@@ -31,6 +31,38 @@ location: Eindhoven, the Netherlands
   </p>
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<section id="what-am-i-up-to-section">
+  <h2 id="what-am-i-up-to">👀 What am I up to</h2>
+  <ul>
+    <li> 
+      <p>
+        🌱 I’m currently <i>getting a lot of real world experience</i>. 📈
+      </p>
+    </li>
+    <li> 
+      <p>
+        👨‍💻 You can find any of my projects by category. Here are my <a href="https://redirects.tygo.van.den.hurk.dev/github/school">school</a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab">homelab<a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy">legacy<a>, and <a href="https://redirects.tygo.van.den.hurk.dev/github/safs">startup<a> projects. 💼 
+      </p>
+    </li>
+    <li> 
+      <p>
+        📫 You can reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">my socials</a>. 📷 
+      </p>
+    </li>
+  </ul>
+  <h2>⚡ Latest Activity</h2>
+  <p>My latest actions on GitHub:</p>
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [v0.0.0](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1/releases/tag/v0.0.0) in [school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1)
+2. 🎉 Merged PR [#8](https://github.com/Tygo-van-den-Hurk/Slyde/pull/8) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+3. ℹ️ Reopened PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
+4. ❌ Closed PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
+5. 🎉 Merged PR [#10514](https://github.com/js-org/js.org/pull/10514) in [js-org/js.org](https://github.com/js-org/js.org)
+<!--END_SECTION:activity-->
+
+</section>
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="stats-section">
   <h2 id="my-git-statistics">🏆 My Git Statistics</h2>
   <p>📈 These are some statistics about me and my GitHub usage: 📊</p>
@@ -72,38 +104,6 @@ location: Eindhoven, the Netherlands
       </a>
     </div>
   </details>
-</section>
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
-<section id="what-am-i-up-to-section">
-  <h2 id="what-am-i-up-to">👀 What am I up to</h2>
-  <ul>
-    <li> 
-      <p>
-        🌱 I’m currently <i>getting a lot of real world experience</i>. 📈
-      </p>
-    </li>
-    <li> 
-      <p>
-        👨‍💻 You can find any of my projects by category. Here are my <a href="https://redirects.tygo.van.den.hurk.dev/github/school">school</a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/homelab">homelab<a>, <a href="https://redirects.tygo.van.den.hurk.dev/github/legacy">legacy<a>, and <a href="https://redirects.tygo.van.den.hurk.dev/github/safs">startup<a> projects. 💼 
-      </p>
-    </li>
-    <li> 
-      <p>
-        📫 You can reach me <a href="https://redirects.tygo.van.den.hurk.dev/contact" target="blank" style="color:inherit!important;">here</a> by filling in a quick email form. Wanna sent a DM instead? Go to <a href="https://tygo.van.den.hurk.dev/socials/" target="blank" style="color:inherit!important;">my socials</a>. 📷 
-      </p>
-    </li>
-  </ul>
-  <h3>⚡ Latest Activity</h3>
-  <p>My latest actions on GitHub:</p>
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.0](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1/releases/tag/v0.0.0) in [school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1)
-2. 🎉 Merged PR [#8](https://github.com/Tygo-van-den-Hurk/Slyde/pull/8) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. ℹ️ Reopened PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
-4. ❌ Closed PR [#4](https://github.com/Tygo-van-den-Hurk/template/pull/4) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
-5. 🎉 Merged PR [#10514](https://github.com/js-org/js.org/pull/10514) in [js-org/js.org](https://github.com/js-org/js.org)
-<!--END_SECTION:activity-->
-
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
 <section id="tools-section">
