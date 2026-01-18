@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Tygo-van-den-Hurk/Slyde/issues/11#issuecomment-3761996234) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-2. ℹ️ Assigned issue [#11](https://github.com/Tygo-van-den-Hurk/Slyde/issues/11) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. 🚀 Published release [v0.0.2](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.2) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-4. 🚀 Published release [v0.0.1](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.1) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-5. 🚀 Published release [v0.0.0](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1/releases/tag/v0.0.0) in [school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1](https://github.com/school-Tygo-van-den-Hurk/TUe-1ZK40-Entrepreneurship-in-action-business-development-assignment-1)
+1. 🗣 Commented on [#93](https://github.com/school-Tygo-van-den-Hurk/template/issues/93#issuecomment-3763091907) in [school-Tygo-van-den-Hurk/template](https://github.com/school-Tygo-van-den-Hurk/template)
+2. 💪 Opened PR [#12](https://github.com/Tygo-van-den-Hurk/Slyde/pull/12) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+3. ℹ️ Assigned PR [#12](https://github.com/Tygo-van-den-Hurk/Slyde/pull/12) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+4. 🗣 Commented on [#11](https://github.com/Tygo-van-den-Hurk/Slyde/issues/11#issuecomment-3761996234) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+5. ℹ️ Assigned issue [#11](https://github.com/Tygo-van-den-Hurk/Slyde/issues/11) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
