@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#7](https://github.com/Tygo-van-den-Hurk/template/pull/7) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
-2. ❌ Closed PR [#7](https://github.com/Tygo-van-den-Hurk/template/pull/7) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
-3. 🗣 Commented on [#8](https://github.com/Tygo-van-den-Hurk/Advent-of-Code-2025/pull/8#issuecomment-3765028304) in [Tygo-van-den-Hurk/Advent-of-Code-2025](https://github.com/Tygo-van-den-Hurk/Advent-of-Code-2025)
-4. 🗣 Commented on [#8](https://github.com/Tygo-van-den-Hurk/Advent-of-Code-2025/pull/8#issuecomment-3765025191) in [Tygo-van-den-Hurk/Advent-of-Code-2025](https://github.com/Tygo-van-den-Hurk/Advent-of-Code-2025)
-5. 🗣 Commented on [#93](https://github.com/school-Tygo-van-den-Hurk/template/issues/93#issuecomment-3763091907) in [school-Tygo-van-den-Hurk/template](https://github.com/school-Tygo-van-den-Hurk/template)
+1. ℹ️ Assigned issue [#13](https://github.com/Tygo-van-den-Hurk/Slyde/issues/13) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+2. ℹ️ Labeled issue [#13](https://github.com/Tygo-van-den-Hurk/Slyde/issues/13) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+3. ❗ Opened issue [#13](https://github.com/Tygo-van-den-Hurk/Slyde/issues/13) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+4. ℹ️ Reopened PR [#7](https://github.com/Tygo-van-den-Hurk/template/pull/7) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
+5. ❌ Closed PR [#7](https://github.com/Tygo-van-den-Hurk/template/pull/7) in [Tygo-van-den-Hurk/template](https://github.com/Tygo-van-den-Hurk/template)
 <!--END_SECTION:activity-->
 
 </section>
