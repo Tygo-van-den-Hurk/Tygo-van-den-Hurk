@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#19](https://github.com/Tygo-van-den-Hurk/Slyde/issues/19) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-2. 🗣 Commented on [#19](https://github.com/Tygo-van-den-Hurk/Slyde/issues/19#issuecomment-3848368752) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. 🔒 Closed issue [#20](https://github.com/Tygo-van-den-Hurk/Slyde/issues/20) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-4. ℹ️ Labeled issue [#20](https://github.com/Tygo-van-den-Hurk/Slyde/issues/20) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-5. ❗ Opened issue [#20](https://github.com/Tygo-van-den-Hurk/Slyde/issues/20) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+1. ℹ️ Assigned PR [#16](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware/pull/16) in [Tygo-van-den-Hurk/Snowflake-v2-Firmware](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware)
+2. 💪 Opened PR [#16](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware/pull/16) in [Tygo-van-den-Hurk/Snowflake-v2-Firmware](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware)
+3. 🔒 Closed issue [#19](https://github.com/Tygo-van-den-Hurk/Slyde/issues/19) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+4. 🗣 Commented on [#19](https://github.com/Tygo-van-den-Hurk/Slyde/issues/19#issuecomment-3848368752) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+5. 🔒 Closed issue [#20](https://github.com/Tygo-van-den-Hurk/Slyde/issues/20) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
