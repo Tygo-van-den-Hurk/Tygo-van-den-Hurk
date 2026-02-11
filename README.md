@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Tygo-van-den-Hurk/NixOS/pull/14) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. 💪 Opened PR [#14](https://github.com/Tygo-van-den-Hurk/NixOS/pull/14) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-3. ℹ️ Assigned PR [#16](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware/pull/16) in [Tygo-van-den-Hurk/Snowflake-v2-Firmware](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware)
-4. 💪 Opened PR [#16](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware/pull/16) in [Tygo-van-den-Hurk/Snowflake-v2-Firmware](https://github.com/Tygo-van-den-Hurk/Snowflake-v2-Firmware)
-5. 🔒 Closed issue [#19](https://github.com/Tygo-van-den-Hurk/Slyde/issues/19) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+1. 🎉 Merged PR [#15](https://github.com/Tygo-van-den-Hurk/NixOS/pull/15) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+2. 🗣 Commented on [#15](https://github.com/Tygo-van-den-Hurk/NixOS/pull/15#issuecomment-3879302131) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🔒 Closed issue [#11](https://github.com/Tygo-van-den-Hurk/NixOS/issues/11) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+4. 🗣 Commented on [#11](https://github.com/Tygo-van-den-Hurk/NixOS/issues/11#issuecomment-3879280753) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+5. 🗣 Commented on [#12](https://github.com/Tygo-van-den-Hurk/NixOS/issues/12#issuecomment-3879276753) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
 <!--END_SECTION:activity-->
 
 </section>
