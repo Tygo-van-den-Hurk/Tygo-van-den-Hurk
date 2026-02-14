@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. ℹ️ Labeled issue [#5](https://github.com/Tygo-van-den-Hurk/NixOS/issues/5) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-3. 🔒 Closed issue [#7](https://github.com/Tygo-van-den-Hurk/NixOS/issues/7) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-4. 🗣 Commented on [#7](https://github.com/Tygo-van-den-Hurk/NixOS/issues/7#issuecomment-3890057841) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-5. ℹ️ Labeled issue [#8](https://github.com/Tygo-van-den-Hurk/NixOS/issues/8) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+1. 🚀 Published release [v0.0.1](https://github.com/Tygo-van-den-Hurk/Type-Sea/releases/tag/v0.0.1) in [Tygo-van-den-Hurk/Type-Sea](https://github.com/Tygo-van-den-Hurk/Type-Sea)
+2. 🚀 Published release [v0.0.0](https://github.com/Tygo-van-den-Hurk/Type-Sea/releases/tag/v0.0.0) in [Tygo-van-den-Hurk/Type-Sea](https://github.com/Tygo-van-den-Hurk/Type-Sea)
+3. ℹ️ Labeled issue [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+4. ℹ️ Labeled issue [#5](https://github.com/Tygo-van-den-Hurk/NixOS/issues/5) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+5. 🔒 Closed issue [#7](https://github.com/Tygo-van-den-Hurk/NixOS/issues/7) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
 <!--END_SECTION:activity-->
 
 </section>
