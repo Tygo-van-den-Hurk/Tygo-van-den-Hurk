@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.3) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-2. ℹ️ Reopened PR [#21](https://github.com/Tygo-van-den-Hurk/Slyde/pull/21) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. ℹ️ Labeled PR [#21](https://github.com/Tygo-van-den-Hurk/Slyde/pull/21) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-4. ℹ️ Unlabeled PR [#21](https://github.com/Tygo-van-den-Hurk/Slyde/pull/21) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-5. ℹ️ Unlabeled PR [#21](https://github.com/Tygo-van-den-Hurk/Slyde/pull/21) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+1. ℹ️ Labeled issue [#2](https://github.com/Tygo-van-den-Hurk/NixOS/issues/2) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+2. 🔒 Closed issue [#2](https://github.com/Tygo-van-den-Hurk/NixOS/issues/2) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🗣 Commented on [#2](https://github.com/Tygo-van-den-Hurk/NixOS/issues/2#issuecomment-3904952183) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+4. 🗣 Commented on [#6](https://github.com/Tygo-van-den-Hurk/Slyde/issues/6#issuecomment-3904568144) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+5. 🚀 Published release [v0.0.3](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.3) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
