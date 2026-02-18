@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.2.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. 🚀 Published release [v0.0.5](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.5) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. 🚀 Published release [v0.0.4](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.4) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-4. 🎉 Merged PR [#12](https://github.com/Tygo-van-den-Hurk/Slyde/pull/12) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-5. 🔒 Closed issue [#11](https://github.com/Tygo-van-den-Hurk/Slyde/issues/11) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+1. 💪 Opened PR [#39](https://github.com/reckenrode/nix-foundryvtt/pull/39) in [reckenrode/nix-foundryvtt](https://github.com/reckenrode/nix-foundryvtt)
+2. 🚀 Published release [v0.2.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.2.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🚀 Published release [v0.0.5](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.5) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+4. 🚀 Published release [v0.0.4](https://github.com/Tygo-van-den-Hurk/Slyde/releases/tag/v0.0.4) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+5. 🎉 Merged PR [#12](https://github.com/Tygo-van-den-Hurk/Slyde/pull/12) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
