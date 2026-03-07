@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. 🗣 Commented on [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10#issuecomment-4003849930) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-3. 🚀 Published release [v0.13.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.13.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-4. 🚀 Published release [v0.12.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.12.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-5. 🚀 Published release [v0.11.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.11.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+1. 🚀 Published release [v0.14.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.14.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+2. 🔒 Closed issue [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🗣 Commented on [#10](https://github.com/Tygo-van-den-Hurk/NixOS/issues/10#issuecomment-4003849930) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+4. 🚀 Published release [v0.13.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.13.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+5. 🚀 Published release [v0.12.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.12.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
 <!--END_SECTION:activity-->
 
 </section>
