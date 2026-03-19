@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/Tygo-van-den-Hurk/Slyde/pull/27) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-2. ℹ️ Assigned PR [#27](https://github.com/Tygo-van-den-Hurk/Slyde/pull/27) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-3. ℹ️ Unlabeled PR [#26](https://github.com/Tygo-van-den-Hurk/Slyde/pull/26) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+1. 🗣 Commented on [#6](https://github.com/Tygo-van-den-Hurk/Slyde/issues/6#issuecomment-4080234054) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+2. 💪 Opened PR [#27](https://github.com/Tygo-van-den-Hurk/Slyde/pull/27) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+3. ℹ️ Assigned PR [#27](https://github.com/Tygo-van-den-Hurk/Slyde/pull/27) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 4. ℹ️ Unlabeled PR [#26](https://github.com/Tygo-van-den-Hurk/Slyde/pull/26) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
-5. ℹ️ Assigned PR [#26](https://github.com/Tygo-van-den-Hurk/Slyde/pull/26) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
+5. ℹ️ Unlabeled PR [#26](https://github.com/Tygo-van-den-Hurk/Slyde/pull/26) in [Tygo-van-den-Hurk/Slyde](https://github.com/Tygo-van-den-Hurk/Slyde)
 <!--END_SECTION:activity-->
 
 </section>
