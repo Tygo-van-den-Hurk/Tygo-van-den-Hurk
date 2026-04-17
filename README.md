@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. 🚀 Published release [v0.17.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.17.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-3. ℹ️ Labeled issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-4. ❗ Opened issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-5. ℹ️ Assigned issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+1. 🔒 Closed issue [#2](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/issues/2) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
+2. 🔒 Closed issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🚀 Published release [v0.17.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.17.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+4. ℹ️ Labeled issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+5. ❗ Opened issue [#18](https://github.com/Tygo-van-den-Hurk/NixOS/issues/18) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
 <!--END_SECTION:activity-->
 
 </section>
