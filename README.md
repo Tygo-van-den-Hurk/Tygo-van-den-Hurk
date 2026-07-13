@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
-2. ℹ️ Labeled PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
+1. 🚀 Published release [v1.1.0](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.1.0) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
+2. 🎉 Merged PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
 3. ℹ️ Labeled PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
 4. ℹ️ Labeled PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
-5. 💪 Opened PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
+5. ℹ️ Labeled PR [#1](https://github.com/Tygo-van-den-Hurk/QMix/pull/1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
 <!--END_SECTION:activity-->
 
 </section>
