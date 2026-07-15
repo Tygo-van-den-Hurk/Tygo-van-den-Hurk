@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.6](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.6) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
-2. 🚀 Published release [v1.0.5](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.5) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
-3. 🚀 Published release [v1.0.4](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.4) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
-4. 🚀 Published release [v1.0.3](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.3) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
-5. 🚀 Published release [v1.0.2](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.2) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
+1. 🚀 Published release [v1.0.0](https://github.com/Tygo-van-den-Hurk/Linked.rs/releases/tag/v1.0.0) in [Tygo-van-den-Hurk/Linked.rs](https://github.com/Tygo-van-den-Hurk/Linked.rs)
+2. 🚀 Published release [v0.2.0](https://github.com/Tygo-van-den-Hurk/Linked.rs/releases/tag/v0.2.0) in [Tygo-van-den-Hurk/Linked.rs](https://github.com/Tygo-van-den-Hurk/Linked.rs)
+3. 🚀 Published release [v0.1.0](https://github.com/Tygo-van-den-Hurk/Linked.rs/releases/tag/v0.1.0) in [Tygo-van-den-Hurk/Linked.rs](https://github.com/Tygo-van-den-Hurk/Linked.rs)
+4. 🚀 Published release [v0.0.0](https://github.com/Tygo-van-den-Hurk/Linked.rs/releases/tag/v0.0.0) in [Tygo-van-den-Hurk/Linked.rs](https://github.com/Tygo-van-den-Hurk/Linked.rs)
+5. 🚀 Published release [v1.0.6](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.6) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
 <!--END_SECTION:activity-->
 
 </section>
