@@ -54,10 +54,10 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2.0](https://github.com/Tygo-van-den-Hurk/Sh_t/releases/tag/v0.2.0) in [Tygo-van-den-Hurk/Sh_t](https://github.com/Tygo-van-den-Hurk/Sh_t)
-2. 🚀 Published release [v0.1.0](https://github.com/Tygo-van-den-Hurk/Sh_t/releases/tag/v0.1.0) in [Tygo-van-den-Hurk/Sh_t](https://github.com/Tygo-van-den-Hurk/Sh_t)
-3. 🚀 Published release [v0.1.1](https://github.com/Tygo-van-den-Hurk/QMix/releases/tag/v0.1.1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
-4. 🚀 Published release [v0.0.0](https://github.com/Tygo-van-den-Hurk/Linked.rs/releases/tag/v0.0.0) in [Tygo-van-den-Hurk/Linked.rs](https://github.com/Tygo-van-den-Hurk/Linked.rs)
+1. ❗ Opened issue [#197](https://github.com/nix-community/nix-index-database/issues/197) in [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database)
+2. 🚀 Published release [v0.2.0](https://github.com/Tygo-van-den-Hurk/Sh_t/releases/tag/v0.2.0) in [Tygo-van-den-Hurk/Sh_t](https://github.com/Tygo-van-den-Hurk/Sh_t)
+3. 🚀 Published release [v0.1.0](https://github.com/Tygo-van-den-Hurk/Sh_t/releases/tag/v0.1.0) in [Tygo-van-den-Hurk/Sh_t](https://github.com/Tygo-van-den-Hurk/Sh_t)
+4. 🚀 Published release [v0.1.1](https://github.com/Tygo-van-den-Hurk/QMix/releases/tag/v0.1.1) in [Tygo-van-den-Hurk/QMix](https://github.com/Tygo-van-den-Hurk/QMix)
 5. 🚀 Published release [v1.0.6](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev/releases/tag/v1.0.6) in [homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/redirects.Tygo.van.den.Hurk.dev)
 <!--END_SECTION:activity-->
 
