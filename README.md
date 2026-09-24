@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.2) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-2. 🚀 Published release [v0.1.1](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.1) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-3. 🚀 Published release [v0.1.0](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.0) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-4. ❌ Closed PR [#64](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/pull/64) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-5. ❌ Closed PR [#71](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/pull/71) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+1. ℹ️ Assigned PR [#79](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/pull/79) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+2. 🚀 Published release [v0.1.2](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.2) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+3. 🚀 Published release [v0.1.2](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.2) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+4. 🚀 Published release [v0.1.1](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.1) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+5. 🚀 Published release [v0.1.0](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.1.0) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
 <!--END_SECTION:activity-->
 
 </section>
