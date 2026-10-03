@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/OsiPog/nix-firefox-addons/pull/8) in [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons)
-2. 💪 Opened PR [#8](https://github.com/OsiPog/nix-firefox-addons/pull/8) in [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons)
-3. 🚀 Published release [v0.2.3](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.2.3) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-4. ℹ️ Assigned PR [#81](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/pull/81) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
-5. 🗣 Commented on [#81](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/pull/81#issuecomment-5930460945) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
+1. 🚀 Published release [v0.21.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.21.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+2. 🚀 Published release [v0.20.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.20.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+3. 🎉 Merged PR [#8](https://github.com/OsiPog/nix-firefox-addons/pull/8) in [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons)
+4. 💪 Opened PR [#8](https://github.com/OsiPog/nix-firefox-addons/pull/8) in [OsiPog/nix-firefox-addons](https://github.com/OsiPog/nix-firefox-addons)
+5. 🚀 Published release [v0.2.3](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev/releases/tag/v0.2.3) in [homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev](https://github.com/homelab-Tygo-van-den-Hurk/Tygo.van.den.Hurk.dev)
 <!--END_SECTION:activity-->
 
 </section>
