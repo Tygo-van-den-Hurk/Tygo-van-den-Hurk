@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.28.1](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.28.1) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-2. 🚀 Published release [v0.28.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.28.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-3. 🚀 Published release [v0.27.1](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.27.1) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-4. 🚀 Published release [v0.27.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.27.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
-5. 🚀 Published release [v0.26.0](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.26.0) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+1. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6131507297) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+2. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6131374374) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+3. 🗣 Commented on [#437099](https://github.com/NixOS/nixpkgs/pull/437099#issuecomment-6124627066) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🚀 Published release [v0.28.6](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.28.6) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
+5. 🚀 Published release [v0.28.5](https://github.com/Tygo-van-den-Hurk/NixOS/releases/tag/v0.28.5) in [Tygo-van-den-Hurk/NixOS](https://github.com/Tygo-van-den-Hurk/NixOS)
 <!--END_SECTION:activity-->
 
 </section>
