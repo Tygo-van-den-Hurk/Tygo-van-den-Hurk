@@ -54,11 +54,11 @@ location: Eindhoven, the Netherlands
   <p>My latest actions on GitHub:</p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6153560671) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-2. 🎉 Merged PR [#1843](https://github.com/NotAShelf/nvf/pull/1843) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-3. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6151210185) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-4. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6147197200) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
-5. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6131507297) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+1. 🗣 Commented on [#577387](https://github.com/NixOS/nixpkgs/issues/577387#issuecomment-6368834921) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6153560671) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+3. 🎉 Merged PR [#1843](https://github.com/NotAShelf/nvf/pull/1843) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+4. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6151210185) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
+5. 🗣 Commented on [#1843](https://github.com/NotAShelf/nvf/pull/1843#issuecomment-6147197200) in [NotAShelf/nvf](https://github.com/NotAShelf/nvf)
 <!--END_SECTION:activity-->
 
 </section>
