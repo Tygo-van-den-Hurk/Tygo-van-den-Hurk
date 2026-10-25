@@ -31,6 +31,7 @@ location: Eindhoven, the Netherlands
   </p>
 </section>
 <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<br>
 <section id="what-am-i-up-to-section">
   <h2 id="what-am-i-up-to">👀 What am I up to</h2>
   <ul>
@@ -50,6 +51,41 @@ location: Eindhoven, the Netherlands
       </p>
     </li>
   </ul>
+  <br>
+  <h2>Organisations</h2>
+  <p>Here are some of my other organizations:</p>
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+    <tr>
+      <td style="width: 33.33%; padding: 4px;">
+        <div align="center">
+          <img
+            src="http://github.com/school-Tygo-van-den-Hurk.png"
+            alt="The avatar of my school GitHub organization."
+            style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block;">
+          <p><strong>School</strong></p>
+        </div>
+      </td>
+      <td style="width: 33.33%; padding: 4px;">
+        <div align="center">
+          <img
+            src="http://github.com/homelab-Tygo-van-den-Hurk.png"
+            alt="The avatar of my homelab GitHub organization."
+            style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block;">
+          <p><strong>HomeLab</strong></p>
+        </div>
+      </td>
+      <td style="width: 33.33%; padding: 4px;">
+        <div align="center">
+          <img
+            src="http://github.com/legacy-Tygo-van-den-Hurk.png"
+            alt="The avatar of my legacy GitHub organization."
+            style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; display: block;">
+          <p><strong>Legacy</strong></p>
+        </div>
+      </td>
+    </tr>
+  </table>
+
   <h2>⚡ Latest Activity</h2>
   <p>My latest actions on GitHub:</p>
 
